@@ -24,9 +24,3 @@ This project demonstrates core Java web technologies such as Servlets, JSP, JDBC
 - **Build Tool**: Apache Tomcat / IDE (Eclipse, IntelliJ IDEA)  
 
 ---
-
-## ▶️ Installation & Setup
-1. Clone the repository:
-```sh
-git clone https://github.com/your-username/JavaBankingSystem.git
-cd JavaBankingSystem
